@@ -1,0 +1,11 @@
+# Required Python Modules...
+dotenv
+os-sys
+time
+pyttsx3 
+SpeechRecognition
+python-decouple
+DateTime
+random2
+tkinter
+pyfirmata
