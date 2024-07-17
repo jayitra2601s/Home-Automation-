@@ -12,3 +12,8 @@ Key Features:
   • User-Friendly Interface: Designed to be intuitive and easy to use, making home automation accessible to everyone.
 
 By combining cutting-edge AI technology with reliable Arduino hardware, this project aims to bring the convenience of smart home automation to a broader audience.
+
+
+# How to use ?
+Create a virtual enviornment for python
+![input](https://github.com/user-attachments/assets/e6c54997-28c0-4ed9-bc69-ce997e9a82d9)
